@@ -1,3 +1,17 @@
+Git:
+git init
+git remote add origin url(http/gits) 
+git add filename
+git commit  or  git commit -m 'comments'
+git push -u origin master
+git pull origin master
+git checkout
+git branch
+
+git config --global alias.st status  : 设置别名   (global 表示对当前用户起作用，不加global表示对当前仓库生效)
+
+
+
 TMUX:
 使用方式是  <Ctrl+b> + 功能鍵 (Ctrl+b 底下用<c-b>表示)
 <c-b> + ?  指令說明
