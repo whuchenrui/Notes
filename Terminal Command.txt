@@ -10,6 +10,7 @@ git branch
 
 git config --global alias.st status  : 设置别名   (global 表示对当前用户起作用，不加global表示对当前仓库生效)
 
+ssh passphrase: I am Ray
 
 
 TMUX:
@@ -42,11 +43,12 @@ TMUX:
 若有開啟多個Session，可用<c-b> + s  選擇要切換到哪個Session
 
 
-Linux Info:
+UNIX Info:
 Hardware:
 free -m / -g : 查看内存
 cat /proc/version : 操作系统信息
 cat /proc/cpuinfo : cpu信息
 
+pbcopy < filepath : 拷贝文件中的内容到clipboard
 
 
