@@ -49,12 +49,18 @@ cat /proc/version : 操作系统信息
 cat /proc/cpuinfo : cpu信息
 ctrl + A / E : 终端中行首行末跳转
 chgrp -R ray folder
+find
 fn + < / > : 方向键，用于首尾跳转 
 free -m / -g : 查看内存
 history : 查看终端历史纪录
+host domain : 查看domian对应的ip列表
 ls -lih / -a : 查看文件
 pbcopy < filepath : 拷贝文件中的内容到clipboard
 ps aux | grep gunicorn | grep chenray  (- v 反向选择) : 罗列进程，grep为筛选条件，记录中需包含的字符串
+which
+
+
+
 
 Traceroute 
 tail filename : 查看文件最后几行

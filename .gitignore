@@ -2,4 +2,4 @@
 *.jpeg
 *.png
 *.dmp
-
+.DS_Store
