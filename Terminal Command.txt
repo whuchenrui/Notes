@@ -55,9 +55,12 @@ free -m / -g : 查看内存
 history : 查看终端历史纪录
 host domain : 查看domian对应的ip列表
 ls -lih / -a : 查看文件
+nslookup umich.edu : 查找cache的域名
 pbcopy < filepath : 拷贝文件中的内容到clipboard
 ps aux | grep gunicorn | grep chenray  (- v 反向选择) : 罗列进程，grep为筛选条件，记录中需包含的字符串
 which
+whois umich.edu : 查看域名是否被注册
+
 
 
 
