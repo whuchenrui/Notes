@@ -52,21 +52,31 @@ chgrp -R ray folder
 find
 fn + < / > : 方向键，用于首尾跳转 
 free -m / -g : 查看内存
+head -n num : 输出文件前n行
 history : 查看终端历史纪录
 host domain : 查看domian对应的ip列表
 ls -lih / -a : 查看文件
 nslookup umich.edu : 查找cache的域名
 pbcopy < filepath : 拷贝文件中的内容到clipboard
 ps aux | grep gunicorn | grep chenray  (- v 反向选择) : 罗列进程，grep为筛选条件，记录中需包含的字符串
+tail filename : 查看文件最后几行
 which
 whois umich.edu : 查看域名是否被注册
 
 
+Ubuntu
+apt-get
+lsb_release -a : 查看ubuntu版本
+whomai : show user info
+su - useri : switch to useri
 
+
+Mac
+brew : install package and softwares
+brew list; install xx;
 
 
 Traceroute 
-tail filename : 查看文件最后几行
 sudo Tcpdum : 
 
 pip:
@@ -97,9 +107,4 @@ General Options:
   --timeout <sec>             连接超时时间 (默认15秒).
   --exists-action <action>    Default action when a path already exists: (s)witch, (i)gnore, (w)ipe, (b)ackup.
   --cert <path>               证书.
-
-
-brew:
-brew list : 查看已安装的包
-
 
