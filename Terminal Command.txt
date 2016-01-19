@@ -67,6 +67,7 @@ whois umich.edu : 查看域名是否被注册
 Ubuntu
 apt-get
 lsb_release -a : 查看ubuntu版本
+adduser xxx;  userdel xxx;    (useradd + paras)
 whomai : show user info
 su - useri : switch to useri
 
