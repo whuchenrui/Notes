@@ -1,3 +1,14 @@
+### 2016-04-03
+- Java Collections sort(List<T> list, Comparator<? super T> c) 重写comparator
+- 重写hashset的hash function.
+
+### 2016-03-30
+－ 线性规划对偶性(duality), 单纯形法
+－ sequence disk write atomic(shadow, log)
+
+### 2016-03-29
+- os indexed files, file system data structure, file cache.
+
 ### 2016-03-28
 - 线性规划, 标准型(standard form), 松弛型(slack form)
 - 单纯行法(simplex method)
@@ -18,7 +29,7 @@
 ### 2016-03-19
 - 浅拷贝，深拷贝(创造一个完全独立的两个对象，但是数值上相同)
 - 复制C++对象也是值拷贝, Python，Java 对象复制则不同
-- c++ strcpy()
+- c++ strncpy()
 
 ### 2016-03-17
 - 线性相关，对角矩阵，矩阵的秩，内点法(f(x)+惩罚函数)
