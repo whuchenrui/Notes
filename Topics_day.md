@@ -1,3 +1,14 @@
+### 2016-04-20
+- git reset head^, 
+- C++ exception <--> Java,Python, String " ", substr();
+
+### 2016-04-13
+- 班得瑞 Bandari, 瑞士音乐公司一个音乐项目名, 雅尼, 理查德.克莱德曼, 宗次郎, 久石让
+
+### 2016-04-12
+- Byzantine fault, Byzantine failure, 
+- Selenium, PhantomJS
+
 ### 2016-04-03
 - Java Collections sort(List<T> list, Comparator<? super T> c) 重写comparator
 - 重写hashset的hash function.

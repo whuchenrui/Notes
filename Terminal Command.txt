@@ -47,6 +47,7 @@ UNIX:
 Hardware:
 cat /proc/version : 操作系统信息
 cat /proc/cpuinfo : cpu信息
+cat -n filename   : 输出行号
 ctrl + A / E : 终端中行首行末跳转
 chgrp -R ray folder
 find
