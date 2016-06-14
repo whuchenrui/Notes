@@ -1,11 +1,22 @@
-### 2016-04-20
+### 2016/06/13 - 06/19
+- smoke test
+
+### 2016/05/23 - 05/29
+- 排列组合,
+- 全幅相机, 索尼微单nex系列, a系列, E口, 富士x系列
+- Roman数字表达, M, D, C, L, X, V, I
+- Factory Pattern
+
+### 2016-05-09 -> 05-15
+- 矩阵旋转
+- 分镜，影视术语
+
+### 2016-04-18 -> 04-24
 - git reset head^, 
 - C++ exception <--> Java,Python, String " ", substr();
 
-### 2016-04-13
+### 2016-04-11 -> 04-17
 - 班得瑞 Bandari, 瑞士音乐公司一个音乐项目名, 雅尼, 理查德.克莱德曼, 宗次郎, 久石让
-
-### 2016-04-12
 - Byzantine fault, Byzantine failure, 
 - Selenium, PhantomJS
 
