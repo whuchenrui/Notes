@@ -1,7 +1,14 @@
+### 2016/07/04 - 07/10
+- Java library(class file, source file, documentation file)
+- Java/C++ <<, >>(补0还是1，取决于数据),  Java还有一个>>>(全部补0)
+- Java没有unsigned 类型
+- make，gcc，xcode(osx)，vs(win)，cmake的关系
+
 ### 2016/06/27 - 07/03
 - smoke test
 - 原子性(加锁)，可恢复性(日志)，Token(不包含加密，包含信息的unique字符串)
 - PS(极坐标扭曲，画布旋转，镜头校准，内容感知)
+- Java transient, 堆排序(nlogn), insert(logn), delete(logn), create(一般认为nlogn, 这里算法导论证明过，实际上味O(n))
 
 ### 2016/05/23 - 05/29
 - 排列组合,
