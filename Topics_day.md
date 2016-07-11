@@ -3,6 +3,7 @@
 - Java/C++ <<, >>(补0还是1，取决于数据),  Java还有一个>>>(全部补0)
 - Java没有unsigned 类型
 - make，gcc，xcode(osx)，vs(win)，cmake的关系
+- Java this pointer(constructor区分形参以及成员变量，用于constructor间互相调用)
 
 ### 2016/06/27 - 07/03
 - smoke test
