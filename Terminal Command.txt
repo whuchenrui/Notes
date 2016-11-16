@@ -15,6 +15,9 @@ ssh passphrase: I am Ray
 
 TMUX:
 使用方式是  <Ctrl+b> + 功能鍵 (Ctrl+b 底下用<c-b>表示)
+tmux new -s name ; create a new tmux window
+tmux at -t name; open tmux window
+tmux ls ; show all the tmux windows
 <c-b> + ?  指令說明
 多個分項操作指令
 <c-b> + c  開啟另一個分項

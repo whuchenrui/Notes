@@ -1,5 +1,10 @@
+### 2016/09/5 - 07/11
+- Class loader
+- super
+
 ### 2016/07/11 - 07/18
 - Java main function is static(avoid ambiguious constructor)
+- Rust, hexo, animate.css, purifycss
 
 ### 2016/07/04 - 07/10
 - Java library(class file, source file, documentation file)
