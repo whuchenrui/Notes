@@ -1,2 +1,2 @@
-# about
-personal notes and resume
+# Notes
+Personal resume and notes, like some configuration scripts.
