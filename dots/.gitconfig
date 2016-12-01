@@ -1,0 +1,11 @@
+[user]
+	email = raychen0411@gmail.com
+	name = Ray Chen
+[alias]
+	st = status
+	br = branch
+	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+	co = checkout
+        cm = commit -m 
+[push]
+	default = matching
