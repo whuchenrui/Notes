@@ -1,3 +1,8 @@
+### 2016/12/12 - 12/18
+- Network topology, Topology sort
+- Bayes rules, Bayes network
+- Conditional probability, totoal 
+
 ### 2016/09/5 - 07/11
 - Class loader
 - super
