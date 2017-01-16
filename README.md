@@ -1,2 +1,22 @@
 # Notes
-Personal resume and notes, like some configuration scripts.
+Personal and notes, like some configuration scripts.
+
+下面是一些我读过的书。
+
+（注：:+1: 表示推荐，:x: 表示差评）
+
+## 索引
+- [文学](#文学)
+- [传记](#传记)
+- [历史](#历史)
+- [技术](#技术)
+
+## 文学
+1. 《月亮和六便士》-毛姆 李继宏译 2016/12 :+1:
+1. 《围城》-钱钟书 2016/6 :+1:
+1. 《边城》-沈从文 2016/5 :+1:
+1. 《基督山伯爵》-大仲马 2016/7
+1. 《尘埃落定》-阿来 2016/8 :+1:
+
+## 传记
+
