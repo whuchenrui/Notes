@@ -9,3 +9,6 @@
         cm = commit -m 
 [push]
 	default = matching
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master
