@@ -1,16 +1,6 @@
-echo "Start setup for vim"
+syntax enable
+colorscheme monokai
 
-# setup color theme as Monokai
-mkdir -p ~/.vim/colors
-cd ~/.vim/colors
-rm monokai.vim
-wget https://raw.githubusercontent.com/sickill/vim-monokai/master/colors/monokai.vim
-touch ~/.vimrc
-echo "syntax enable" >> ~/.vimrc
-echo "colorscheme monokai" >> ~/.vimrc
-
-# setup preferences
-echo '
 " ### Setup preferences ###
 set tabstop=4 			" number of visual space per tab
 set number  			" show line number
@@ -42,4 +32,4 @@ inoremap jj <esc> 		" jj is escape
 " Reference:
 " 1. https://dougblack.io/words/a-good-vimrc.html
 " 2. https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim
-' >> ~/.vimrc
+
