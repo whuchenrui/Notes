@@ -1,38 +1,17 @@
 # Notes
-Personal and notes, like some configuration scripts.
+This repo contains personal notes, tool settings and some configuration scripts.
 
-下面是一些我读过的书。
+### ./scripts
+Helpful scripts to make my life easier, like python, shell scripts, named by purpose. For later reference.
 
-（注：:+1: 表示推荐，:x: 表示差评）
+### ./settings
+Configuration files for backup purpose, like sublime, vim, git etc.
 
-## 索引
-- [文学](#文学)
-- [传记](#传记)
-- [历史](#历史)
-- [技术](#技术)
-- [其他](#其他)
+### Topic_weekly.md
+list topics I met each week, for later review.
 
-## 文学
-1. 《远方的鼓声》-村上春树  林少华译 2017/1 
-1. 《月亮和六便士》-毛姆  李继宏译 2016/12 :+1:
-1. 《围城》-钱钟书 2016/6 :+1:
-1. 《边城》-沈从文 2016/5 :+1:
-1. 《基督山伯爵》-大仲马 2016/7
-1. 《尘埃落定》-阿来 2016/8 :+1:
+### Reading_list.md
+Here is the list of books I have read. Thumbing up for those books that deserve reading.
+Inspired by [Yifeng Ruan][ruan]. 
 
-## 传记
-1. 《曾国藩传》-朱东安 2013/7
-1. 《毛泽东传》-Ross Terrill著  胡为雄，郑玉臣译  2015/7
-
-## 历史
-1. 《你一定爱读的极简欧洲史》-John Hirst著  席玉苹译 2015/6 :+1:
-
-## 技术
-1. 《浪潮之巅》-吴军 2017/2 :+1:
-1. 《Clean Code》-Robert C.Martin 
-
-## 其他
-1. 《影响力》-西奥尼迪著 张力慧译 2014/5 :+1:
-1. 《三体》三部曲 -刘慈欣 2016/4 :+1:
-
-
+[ruan]: https://github.com/ruanyf/reading-list
