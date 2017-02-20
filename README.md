@@ -1,10 +1,10 @@
 # Notes
 This repo contains personal notes, tool settings and some configuration scripts.
 
-### ./scripts
+### scripts/
 Helpful scripts to make my life easier, like python, shell scripts, named by purpose. For later reference.
 
-### ./settings
+### settings/
 Configuration files for backup purpose, like sublime, vim, git etc.
 
 ### Topic_weekly.md
