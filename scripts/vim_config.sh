@@ -37,8 +37,9 @@ set tm=500
 " move vertically by visual line
 nnoremap j gj
 nnoremap k gk
-inoremap jj <esc> 		" jj is escape
 
+"jj is escape
+inoremap jj <esc> 		
 " Reference:
 " 1. https://dougblack.io/words/a-good-vimrc.html
 " 2. https://github.com/amix/vimrc/blob/master/vimrcs/basic.vim
