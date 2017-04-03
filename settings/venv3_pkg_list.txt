@@ -1,4 +1,12 @@
 appdirs==1.4.3
+click==6.7
+http-prompt==0.9.3
+httpie==0.9.9
 packaging==16.8
+parsimonious==0.7.0
+prompt-toolkit==1.0.14
+Pygments==2.2.0
 pyparsing==2.2.0
+requests==2.13.0
 six==1.10.0
+wcwidth==0.1.7
