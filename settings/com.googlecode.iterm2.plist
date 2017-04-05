@@ -270,6 +270,34 @@
 			<key>Text</key>
 			<string></string>
 		</dict>
+		<key>0x5b-0x100000</key>
+		<dict>
+			<key>Action</key>
+			<integer>2</integer>
+			<key>Text</key>
+			<string></string>
+		</dict>
+		<key>0x5d-0x100000</key>
+		<dict>
+			<key>Action</key>
+			<integer>0</integer>
+			<key>Text</key>
+			<string></string>
+		</dict>
+		<key>0x7b-0x120000</key>
+		<dict>
+			<key>Action</key>
+			<integer>18</integer>
+			<key>Text</key>
+			<string></string>
+		</dict>
+		<key>0x7d-0x120000</key>
+		<dict>
+			<key>Action</key>
+			<integer>19</integer>
+			<key>Text</key>
+			<string></string>
+		</dict>
 		<key>0x9-0x40000</key>
 		<dict>
 			<key>Action</key>
@@ -284,7 +312,7 @@
 			<key>Text</key>
 			<string></string>
 		</dict>
-		<key>0xf700-0x2a0000</key>
+		<key>0xf700-0x320000</key>
 		<dict>
 			<key>Action</key>
 			<integer>20</integer>
@@ -298,38 +326,10 @@
 			<key>Text</key>
 			<string></string>
 		</dict>
-		<key>0xf701-0x2a0000</key>
+		<key>0xf701-0x320000</key>
 		<dict>
 			<key>Action</key>
 			<integer>21</integer>
-			<key>Text</key>
-			<string></string>
-		</dict>
-		<key>0xf702-0x280000</key>
-		<dict>
-			<key>Action</key>
-			<integer>2</integer>
-			<key>Text</key>
-			<string></string>
-		</dict>
-		<key>0xf702-0x2a0000</key>
-		<dict>
-			<key>Action</key>
-			<integer>18</integer>
-			<key>Text</key>
-			<string></string>
-		</dict>
-		<key>0xf703-0x280000</key>
-		<dict>
-			<key>Action</key>
-			<integer>0</integer>
-			<key>Text</key>
-			<string></string>
-		</dict>
-		<key>0xf703-0x2a0000</key>
-		<dict>
-			<key>Action</key>
-			<integer>19</integer>
 			<key>Text</key>
 			<string></string>
 		</dict>
@@ -405,7 +405,7 @@
 	<key>MaxVertically</key>
 	<false/>
 	<key>NSNavLastRootDirectory</key>
-	<string>~/Google Drive/Files/Notes/settings</string>
+	<string>~/Documents</string>
 	<key>NSNavPanelExpandedSizeForOpenMode</key>
 	<string>{781, 529}</string>
 	<key>NSNavPanelExpandedSizeForSaveMode</key>
@@ -466,9 +466,9 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>524 85 606 456 0 0 1920 1080 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>432 446 937 465 0 0 1920 1080 </string>
+	<string>186 235 796 473 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 12 1914 1068 0 0 1920 1080 </string>
+	<string>0 25 1277 775 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>668 191 570 452 0 0 1280 800 </string>
 	<key>New Bookmarks</key>
@@ -1312,7 +1312,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-03-10T16:46:01Z</date>
+	<date>2017-03-22T19:16:05Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>

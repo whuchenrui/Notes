@@ -12,6 +12,7 @@ echo "colorscheme monokai" >> ~/.vimrc
 # setup preferences
 echo '
 " ### Setup preferences ###
+set shell=bash          " set default shell as bash
 set tabstop=4 			" number of visual space per tab
 set number  			" show line number
 set showcmd  			" show command in bottom bar
