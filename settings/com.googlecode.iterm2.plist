@@ -466,9 +466,9 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>524 85 606 456 0 0 1920 1080 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>186 235 796 473 0 0 1280 800 </string>
+	<string>186 259 937 465 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>0 25 1277 775 0 0 1280 800 </string>
+	<string>0 4 1277 796 0 0 1280 800 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>668 191 570 452 0 0 1280 800 </string>
 	<key>New Bookmarks</key>
@@ -1293,6 +1293,8 @@
 	</dict>
 	<key>PrefsCustomFolder</key>
 	<string>/Users/ray/Google Drive/Files/Notes/settings</string>
+	<key>Print In Black And White</key>
+	<true/>
 	<key>PromptOnQuit</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -1312,7 +1314,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-03-22T19:16:05Z</date>
+	<date>2017-04-15T18:23:37Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
@@ -5635,6 +5637,6 @@
 	<key>findRegex_iTerm</key>
 	<true/>
 	<key>iTerm Version</key>
-	<string>3.0.14</string>
+	<string>3.0.15</string>
 </dict>
 </plist>
