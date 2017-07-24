@@ -1,14 +1,25 @@
 [user]
 	email = raychen0411@gmail.com
 	name = Ray Chen
+[core]
+	pager = less -FMRiX
+	autocrlf = input
+	excludesfile = ~/.config/git/excludes 
+	editor = code --wait
 [alias]
 	st = status
 	br = branch
 	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
 	co = checkout
-        cm = commit -m 
+    cm = commit -m 
+	dag = log --graph --format='format:%C(yellow)%h%C(reset) %C(blue)\"%an\" <%ae>%C(reset) %C(magenta)%cr%C(reset)%C(auto)%d%C(reset)%n%s' --date-order
 [push]
-	default = matching
+	default = current 
+[amazon]
+	append-cr-url = true
+	pull-request-by-default = true 
 [branch "master"]
 	remote = origin
 	merge = refs/heads/master
+[color]
+	ui = auto
