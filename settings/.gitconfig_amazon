@@ -1,5 +1,5 @@
 [user]
-	email = xxxx@yyy.com 
+	email = raychen0411@gmail.com
 	name = Ray Chen
 [core]
 	pager = less -FMRiX
@@ -11,10 +11,13 @@
 	br = branch
 	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
 	co = checkout
+	ap = add --patch  # only add untracked files
+	diffc = diff --cached  # show added file changes
     cm = commit -m 
 	dag = log --graph --format='format:%C(yellow)%h%C(reset) %C(blue)\"%an\" <%ae>%C(reset) %C(magenta)%cr%C(reset)%C(auto)%d%C(reset)%n%s' --date-order
+	whenadd = log --diff-filter=A  # show first commit for specific file
 [push]
-	default = simple
+	default = current
 [amazon]
 	append-cr-url = true
 	pull-request-by-default = true 
