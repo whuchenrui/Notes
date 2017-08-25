@@ -1,6 +1,6 @@
 [user]
-	email = raychen0411@gmail.com
-	name = Ray Chen
+	email = 
+	name = 
 [core]
 	pager = less -FMRiX
 	autocrlf = input
@@ -14,10 +14,13 @@
 	ap = add --patch  # only add untracked files
 	diffc = diff --cached  # show added file changes
     cm = commit -m 
+	sl = stash list
+	sa = stash apply
+	sp = stash pop
 	dag = log --graph --format='format:%C(yellow)%h%C(reset) %C(blue)\"%an\" <%ae>%C(reset) %C(magenta)%cr%C(reset)%C(auto)%d%C(reset)%n%s' --date-order
 	whenadd = log --diff-filter=A  # show first commit for specific file
 [push]
-	default = current
+	default = current 
 [amazon]
 	append-cr-url = true
 	pull-request-by-default = true 
