@@ -3,6 +3,7 @@ colorscheme monokai
 
 " ### Setup preferences ###
 set tabstop=4 			" number of visual space per tab
+set expandtab ts=4 sw=4 ai
 set number  			" show line number
 set showcmd  			" show command in bottom bar
 set cursorline  		" highlight current line
