@@ -491,9 +491,9 @@
 	<key>NSWindow Frame SessionsPreferences</key>
 	<string>1438 931 606 456 659 800 2560 1417 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>791 1325 796 473 659 800 2560 1417 </string>
+	<string>-1334 1477 796 473 -1466 900 2560 1417 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>661 823 2557 1392 659 800 2560 1417 </string>
+	<string>4 7 1432 867 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
 	<string>2705 254 650 477 2560 0 2560 1417 </string>
 	<key>New Bookmarks</key>
@@ -1206,6 +1206,8 @@
 	<true/>
 	<key>NoSyncHaveShownPromoWithId_4</key>
 	<true/>
+	<key>NoSyncHaveWarnedAboutIncompatibleSoftware</key>
+	<true/>
 	<key>NoSyncHaveWarnedAboutPasteConfirmationChange</key>
 	<true/>
 	<key>NoSyncInstallationId</key>
@@ -1312,6 +1314,8 @@
 	<false/>
 	<key>PasteTabToStringTabStopSize</key>
 	<integer>4</integer>
+	<key>PerformDNSLookups</key>
+	<false/>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -1343,7 +1347,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-07-10T16:08:55Z</date>
+	<date>2017-09-19T18:20:08Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>Show Toolbelt</key>
