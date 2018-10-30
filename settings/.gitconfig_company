@@ -1,10 +1,11 @@
 [user]
-	email = 
+	email = ruichn@amazon.com
 	name = Ray chen
 [core]
     pager = less -FMRiX
     autocrlf = input
     excludesfile = ~/.config/git/excludes 
+    #editor = code --wait
 [alias]
     st = status
     br = branch
@@ -27,10 +28,7 @@
     append-cr-url = true
     pull-request-by-default = true 
 [branch]
-	autosetuprebase = always
-[branch "master"]
-    remote = origin
-    merge = refs/heads/master
+    autosetuprebase = always
 [color]
     ui = auto
 
