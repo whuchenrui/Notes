@@ -1,25 +1,35 @@
 [user]
-	email = raychen0411@gmail.com
-	name = Ray Chen
+	email = xxx@email.com 
+	name = Ray chen
 [core]
-	pager = less -FMRiX
-	autocrlf = input
-	excludesfile = ~/.config/git/excludes 
-	editor = code --wait
+    pager = less -FMRiX
+    autocrlf = input
+    excludesfile = ~/.config/git/excludes 
+    #editor = code --wait
 [alias]
-	st = status
-	br = branch
-	hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
-	co = checkout
-    cm = commit -m 
-	dag = log --graph --format='format:%C(yellow)%h%C(reset) %C(blue)\"%an\" <%ae>%C(reset) %C(magenta)%cr%C(reset)%C(auto)%d%C(reset)%n%s' --date-order
+    st = status
+    br = branch
+    hist = log --pretty=format:'%h %ad | %s%d [%an]' --graph --date=short
+    co = checkout
+    ap = add --patch  # only add untracked files
+    diffc = diff --cached  # show added file changes
+    cm = commit
+    cmm = commit -m
+    sl = stash list
+    sa = stash apply
+    ss = stash save
+    sp = stash pop
+    sd = stash drop
+    dag = log --graph --format='format:%C(yellow)%h%C(reset) %C(blue)\"%an\" <%ae>%C(reset) %C(magenta)%cr%C(reset)%C(auto)%d%C(reset)%n%s' --date-order
+    whenadd = log --diff-filter=A  # show first commit for specific file
 [push]
-	default = current 
+    default = current 
 [amazon]
-	append-cr-url = true
-	pull-request-by-default = true 
-[branch "master"]
-	remote = origin
-	merge = refs/heads/master
+    append-cr-url = true
+    pull-request-by-default = true 
+[branch]
+    autosetuprebase = always
 [color]
-	ui = auto
+    ui = auto
+[rebase]
+	autoStash = true
